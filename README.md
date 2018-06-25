@@ -1,5 +1,7 @@
 # Open Security Controls Assessment Language (OSCAL)
 
+[![Mentioned in Awesome NIST](https://awesome.re/mentioned-badge.svg)](https://github.com/usnistgov/awesome-nist)
+
 > Current work is happening in the [master](https://github.com/usnistgov/OSCAL/) branch.
 > NOTE: Some JSON examples might be missing across the repo. We are working to regenerate these.
 
